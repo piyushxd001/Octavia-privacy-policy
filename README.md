@@ -1,5 +1,5 @@
 # Octavia-privacy-policy
-# By using Mystic you accept with its privacy policy and discord.com/terms & discord.com/guidelines
+# By using Octavia you accept with its privacy policy and discord.com/terms & discord.com/guidelines
 
 # 1. What does it store?
 Server IDs for servers data(prefixes, settings, vanity url to revert on change)
@@ -20,9 +20,9 @@ Bot needs to find the user who is whitelisted to prevent punishments.
 We need to prevent people/servers that abuse the bot, break bot rules.
 # 4. This Privacy Policy doesn't answer my question. What should I do?
 You can reach us by the following methods:
-Join our Support Server on discord
-Contact me on discord Mystic bots
-Server invite invalid or channels locked ? You can contact me via my email address: samarplayz1337@gmail.com
+Join our [Support Server](https://dsc.gg/octaviahq) on discord
+Contact me on discord [Octavia hq](https://dsc.gg/octaviahq)
+Server invite invalid or channels locked ? You can contact me via my instagram account piyush_kanyal_02
 # 5. How can we delete our entire data?
 Simply join our support server and ask any in support channel to delete your entire data, We will delete your entrie data without asking any question, exceptions: user/server blacklisted IDs (discord tos / bot tos violators)
 A warning will be announced in the support server 3 days prior to policy changes.
